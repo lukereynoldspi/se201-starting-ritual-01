@@ -1,2 +1,2 @@
-#Starting Ritual
-Project start ritual for speed, power and profit.
+# Starting Ritual
+<p> Project start ritual for speed, power and profit. </p>
